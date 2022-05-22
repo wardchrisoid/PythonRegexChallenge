@@ -1,6 +1,6 @@
 # PythonRegexChallenge
-Hello, this challenge was created to solve the following prompt:
 ===========================================================================
+Hello, this challenge was created to solve the following prompt:
 Please write code that takes a chat message string as input and returns a JSON formatted string containing information about its contents. You should look for at least the following features:
 
 1) @mentions - This is a way to mention another user. They always start with '@' and end when hitting a non-word character. 
