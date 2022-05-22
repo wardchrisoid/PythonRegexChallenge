@@ -1,5 +1,6 @@
 # PythonRegexChallenge
 ===========================================================================
+
 Hello, this challenge was created to solve the following prompt:
 Please write code that takes a chat message string as input and returns a JSON formatted string containing information about its contents. You should look for at least the following features:
 
